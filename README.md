@@ -49,9 +49,14 @@ RepoSense helps developers:
 
 ## Screenshots
 
-### Repo Analyzer Interface
+### Repository Analyzer
+![RepoSense Home](screenshots/reposense-home.png)
 
-![RepoSense UI](screenshots/reposense-ui.png)
+### AI Features Overview
+![RepoSense Features](screenshots/reposense-features.png)
+
+### Repository Analysis
+![RepoSense Analysis](screenshots/reposense-analysis.png)
 
 ---
 
