@@ -62,16 +62,16 @@ RepoSense helps developers:
 
 ## Features
 
-### Repository Analysis
+1. Repository Analysis
 Analyze any public GitHub repository instantly.
 
-### Tech Stack Detection
+2. Tech Stack Detection
 Automatically detect frameworks and technologies used in the repository.
 
-### Developer Insights
+3. Developer Insights
 Understand unfamiliar codebases quickly.
 
-### Architecture Understanding
+4. Architecture Understanding
 Identify key layers in the project.
 
 ---
