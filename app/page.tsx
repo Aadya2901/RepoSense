@@ -17,9 +17,12 @@ export default function Home() {
     const data = await response.json();
 
     alert(
-      `Repo: ${data.name}
+`Repo: ${data.name}
 Language: ${data.language}
-Stars: ${data.stars}`
+Stars: ${data.stars}
+
+Detected Stack:
+${data.stack.join(", ")}`
     );
   }
 
